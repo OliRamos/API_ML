@@ -1,0 +1,14 @@
+{
+  "name": "api_ml",
+  "version": "1.0.0",
+  "description": "apiteste",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "Oliver",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
